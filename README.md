@@ -26,7 +26,7 @@
 ## 🧰 Featured Projects
 
 <p align="left">
-  <a href="https://https://pwnedbyp.github.io/Mini-SIEM/">
+  <a href="https://pwnedbyp.github.io/Mini-SIEM/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polporta&repo=mini-siem&theme=radical" />
   </a>
   <a href="https://github.com/PwnedByP/Python">
