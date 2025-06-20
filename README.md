@@ -47,9 +47,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pol-porta) – Let’s connect!
 - 💬 Ask me about cybersecurity labs, Python automation, or how to set up a custom SIEM.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PwnedByP&style=flat-square" alt="Profile views" />
-</p>
