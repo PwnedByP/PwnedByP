@@ -29,7 +29,7 @@
   <a href="https://github.com/polporta/mini-siem">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polporta&repo=mini-siem&theme=radical" />
   </a>
-  <a href="https://github.com/polporta/python-exercises">
+  <a href="[https://github.com/pwnedByP/mini-SIEM](https://pwnedbyp.github.io/Mini-SIEM/)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=polporta&repo=python-exercises&theme=radical" />
   </a>
 </p>
