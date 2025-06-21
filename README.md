@@ -1,12 +1,10 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hey, I'm Pol 👋</h1>
-<p align="center">
-<h3>
+<h3 align="center">
   💻 Cybersecurity enthusiast | 🐍 Python developer | 🔐 Building a Mini-SIEM<br>
   🥊 Muay Thai fighter | Studying IT & breaking stuff in labs
 </h3>
-</p>
 
 ---
 
