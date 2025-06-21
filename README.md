@@ -2,10 +2,10 @@
 
 <h1 align="center">Hey, I'm Pol 👋</h1>
 <p align="center">
-<h2>
+<h3>
   💻 Cybersecurity enthusiast | 🐍 Python developer | 🔐 Building a Mini-SIEM<br>
   🥊 Muay Thai fighter | Studying IT & breaking stuff in labs
-</h2>
+</h3>
 </p>
 
 ---
