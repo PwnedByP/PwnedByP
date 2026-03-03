@@ -9,15 +9,20 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # This allows the action to save the image to your repo
+      contents: write
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Stats Images
+      - name: Featured Projects
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
           user: PwnedByP
           template: classic
-          base: header, activity, community, repositories, metadata
+          # 'base: ""' removes the generic profile stats (followers, etc.)
+          base: "" 
+          filename: featured-projects.svg
           config_timezone: Europe/Madrid
-          filename: github-metrics.svg
+          
+          # This enables the specific repository cards
+          plugin_repositories: yes
+          plugin_repositories_featured: Mini-SIEM, Python
