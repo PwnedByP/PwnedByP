@@ -78,11 +78,9 @@ class Pol:
 <br/>
 
 <div align="center">
-<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" /></picture>
+<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" /></picture>
 &nbsp;
-<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
-<br/><br/>
-<picture><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PwnedByP&hide_border=true&background=0d1117&ring=ff4c29&fire=ff4c29&currStreakLabel=ff4c29&sideLabels=c9d1d9&dates=c9d1d9&stroke=1a1f2e&currStreakNum=ffffff&sideNums=ffffff" /></picture>
+<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
 </div>
 
 <br/><br/>
