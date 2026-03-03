@@ -47,6 +47,10 @@
 
 ---
 
+## 📊 Professional SOC Metrics
+
+---
+
 ## 📖 My Learning Journey
 
 - 🔐 **Mini-SIEM Project**: Simulates a small enterprise environment with alerts, dashboards, and attack detection.
