@@ -73,18 +73,6 @@ class Pol:
 
 <br/><br/>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
-
-<br/>
-
-<div align="center">
-<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" /></picture>
-&nbsp;
-<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
-</div>
-
-<br/><br/>
-
 <div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%8E%93%20Certifications&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
@@ -169,8 +157,6 @@ class Pol:
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pol-porta"><img src="https://img.shields.io/badge/LinkedIn-Pol%20Porta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/PwnedByP"><img src="https://img.shields.io/badge/GitHub-PwnedByP-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br/><br/>
 <i>💬 Ask me about cybersecurity labs, Python automation, or how to set up a custom SIEM.</i>
 <br/><br/>
