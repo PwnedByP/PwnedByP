@@ -27,10 +27,10 @@
 
 <p align="left">
   <a href="https://pwnedbyp.github.io/Mini-SIEM/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PwnedByP&repo=Mini-SIEM&theme=radical" />
+    <img width="400" src="https://readme-stats-pwnedbyps-projects.vercel.app/api/pin/?username=PwnedByP&repo=Mini-SIEM&theme=radical" />
   </a>
   <a href="https://github.com/PwnedByP/Python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PwnedByP&repo=Python&theme=radical" />
+    <img width="400" src="https://readme-stats-pwnedbyps-projects.vercel.app/api/pin/?username=PwnedByP&repo=Python&theme=radical" />
   </a>
 </p>
 
