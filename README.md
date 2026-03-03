@@ -16,7 +16,7 @@
 
 </div>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%A7%A0%20About%20Me&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%A7%A0%20About%20Me&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
@@ -53,7 +53,7 @@ class Pol:
 
 <br/><br/>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%94%A7%20Tech%20Stack%20and%20Tools&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%94%A7%20Tech%20Stack%20and%20Tools&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
@@ -73,21 +73,23 @@ class Pol:
 
 <br/><br/>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
 <div align="center">
-<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" /></picture>
+<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" /></picture>
 &nbsp;
-<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
+<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
+<br/><br/>
+<picture><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PwnedByP&hide_border=true&background=0d1117&ring=ff4c29&fire=ff4c29&currStreakLabel=ff4c29&sideLabels=c9d1d9&dates=c9d1d9&stroke=1a1f2e&currStreakNum=ffffff&sideNums=ffffff" /></picture>
 </div>
 
 <br/><br/>
 
 <br/><br/>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%8E%93%20Certifications&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%8E%93%20Certifications&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
@@ -137,7 +139,7 @@ class Pol:
 </div>
 
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%93%96%20My%20Learning%20Journey&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%93%96%20My%20Learning%20Journey&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
@@ -155,7 +157,7 @@ class Pol:
 
 <br/><br/>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%8F%86%20TryHackMe&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%8F%86%20TryHackMe&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
@@ -165,7 +167,7 @@ class Pol:
 
 <br/><br/>
 
-<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%8C%8D%20Connect%20With%20Me&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=1a1f2e&height=60&text=%F0%9F%8C%8D%20Connect%20With%20Me&fontSize=24&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
 
