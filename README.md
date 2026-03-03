@@ -83,6 +83,8 @@ class Pol:
 <picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=false&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
 </div>
 
+<br/><br/>
+
 <div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%8E%93%20Certifications&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
 <br/>
