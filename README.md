@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:ff4c29&height=200&section=header&text=Pol%20Porta&fontSize=62&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=SOC%20Analyst%20%7C%20Python%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C29&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Pol+%F0%9F%91%8B;SOC+Analyst+%26+Blue+Team+Defender;Top+1%25+on+TryHackMe+%F0%9F%8F%86;Python+Automator+%26+Script+Craftsman;Muay+Thai+Fighter+%F0%9F%A5%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4C29&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Pol+%F0%9F%91%8B;SOC+Analyst+%26+Blue+Team+Defender;Top+1%25+on+TryHackMe+%F0%9F%8F%86;Muay+Thai+Fighter+%F0%9F%A5%8A" alt="Typing SVG" />
 
 <br/><br/>
 
