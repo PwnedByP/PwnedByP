@@ -58,17 +58,17 @@ class Pol:
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,py,docker,gcp,mysql,vscode,windows&theme=dark&perline=9" />
+<picture><img src="https://skillicons.dev/icons?i=linux,kali,bash,py,docker,gcp,mysql,vscode,windows&theme=dark&perline=9" /></picture>
 <br/><br/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></picture>
 &nbsp;
-<img src="https://img.shields.io/badge/Google%20SecOps-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/Google%20SecOps-4285F4?style=for-the-badge&logo=google&logoColor=white" /></picture>
 &nbsp;
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></picture>
 &nbsp;
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></picture>
 &nbsp;
-<img src="https://img.shields.io/badge/SentinelOne-6A0DAD?style=for-the-badge&logoColor=white" />
+<picture><img src="https://img.shields.io/badge/SentinelOne-6A0DAD?style=for-the-badge&logoColor=white" /></picture>
 </div>
 
 <br/><br/>
@@ -78,14 +78,66 @@ class Pol:
 <br/>
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" />
+<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=PwnedByP&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4c29&icon_color=ff4c29&text_color=c9d1d9&count_private=true&rank_icon=github" /></picture>
 &nbsp;
-<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" />
+<picture><img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PwnedByP&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4c29&text_color=c9d1d9&langs_count=6" /></picture>
 <br/><br/>
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PwnedByP&hide_border=true&background=0d1117&ring=ff4c29&fire=ff4c29&currStreakLabel=ff4c29&sideLabels=c9d1d9&dates=c9d1d9&stroke=1a1f2e&currStreakNum=ffffff&sideNums=ffffff" />
+<picture><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PwnedByP&hide_border=true&background=0d1117&ring=ff4c29&fire=ff4c29&currStreakLabel=ff4c29&sideLabels=c9d1d9&dates=c9d1d9&stroke=1a1f2e&currStreakNum=ffffff&sideNums=ffffff" /></picture>
 </div>
 
 <br/><br/>
+
+<br/><br/>
+
+<div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%8E%93%20Certifications&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<a href="https://www.credly.com/badges/15c2dca0-85c8-4f36-bc9c-23b2317976e0">
+<img src="https://images.credly.com/size/150x150/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" alt="Cisco Intro to Cybersecurity" />
+</a>
+<br/><br/>
+<b>Introduction to Cybersecurity</b><br/>
+<sub>Cisco · 2024</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc">
+<img src="https://images.credly.com/size/150x150/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="100" alt="ISC2 CC" style="background:#ffffff; border-radius:8px; padding:6px;" />
+</a>
+<br/><br/>
+<b>Certified in Cybersecurity</b><br/>
+<sub>ISC2 · 2024</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/173432845" width="100" alt="Chrome Enterprise Premium Proficiency" />
+<br/><br/>
+<b>Chrome Enterprise Premium Proficiency</b><br/>
+<sub>Google · 2024</sub>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<img src="https://uploads-us-west-2.insided.com/securitygooglecloud-en/attachment/c1d2cc62-37d3-4b4d-8e76-e862ce0c28b7.png" width="100" alt="Google PSOE" />
+<br/><br/>
+<b>Professional Security Operations Engineer</b><br/>
+<sub>Google · Est. 2025 ⏳</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <div align="center"><picture><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1f2e,100:111827&height=60&text=%F0%9F%93%96%20My%20Learning%20Journey&fontSize=26&fontColor=ff4c29&fontAlign=50&fontAlignY=62" width="100%"/></picture></div>
 
