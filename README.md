@@ -16,18 +16,12 @@
 - 📚 Currently studying a two-year degree in **Networked Computer Systems Administration**
 - 🐍 Practicing Python daily with scripts, automation, and mini-projects
 - 🌱 Learning: Python, Linux scripting, regex, and offensive/defensive tools
-- ⚙️ Tools I use: Splunk, AD, Kali Linux, VMware, Wireshark, Git, Bash, SQL
-
----
-
-## 🛠️ Professional Tech Stack
+- ⚙️ Tools I use: Google SecOps, SentinelOne, Kali Linux, Docker, Wireshark, Bash, Python
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows,py,bash,gcp,docker,kali,vscode,mysql" />
 </p>
 
-> 🛡️ **Enterprise Security Tools:**
-> `Google SecOps` • `SentinelOne` • `Jira` • `Cursor` • `Incident Response` • `SIEM/EDR`
 
 ---
 
