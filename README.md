@@ -106,7 +106,7 @@ class Pol:
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/173432845" width="100" alt="Chrome Enterprise Premium Proficiency" />
 <br/><br/>
 <b>Chrome Enterprise Premium Proficiency</b><br/>
-<sub>Google · 2024</sub>
+<sub>Google · 2026</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -114,7 +114,7 @@ class Pol:
 <img src="https://uploads-us-west-2.insided.com/securitygooglecloud-en/attachment/c1d2cc62-37d3-4b4d-8e76-e862ce0c28b7.png" width="100" alt="Google PSOE" />
 <br/><br/>
 <b>Professional Security Operations Engineer</b><br/>
-<sub>Google · Est. 2025 ⏳</sub>
+<sub>Google · Est. 2026 ⏳</sub>
 <br/><br/>
 </td>
 </tr>
