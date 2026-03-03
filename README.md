@@ -36,6 +36,17 @@
 
 ---
 
+## 🛠️ Professional Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,py,bash,gcp,docker,kali,vscode,mysql" />
+</p>
+
+> 🛡️ **Enterprise Security Tools:**
+> `Google SecOps` • `SentinelOne` • `Jira` • `Cursor` • `Incident Response` • `SIEM/EDR`
+
+---
+
 ## 📖 My Learning Journey
 
 - 🔐 **Mini-SIEM Project**: Simulates a small enterprise environment with alerts, dashboards, and attack detection.
