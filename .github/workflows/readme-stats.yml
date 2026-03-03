@@ -13,26 +13,28 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # STEP 1: Create the Mini-SIEM Card
       - name: Mini-SIEM Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          template: repository
           user: PwnedByP
+          template: repository
           repo: Mini-SIEM
           filename: card-siem.svg
-          base: ""
+          base: header # This is the "Title" and "Description"
+          plugin_lines: yes # Adds the "lines of code" graph
+          config_theme: radical
           config_timezone: Europe/Madrid
 
-      # STEP 2: Create the Python Card
       - name: Python Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          template: repository
           user: PwnedByP
+          template: repository
           repo: Python
           filename: card-python.svg
-          base: ""
+          base: header
+          plugin_lines: yes
+          config_theme: radical
           config_timezone: Europe/Madrid
