@@ -31,12 +31,6 @@
 
 ---
 
-## 📊 Professional SOC Metrics
-![](https://img.shields.io/badge/Alerts_Triaged-1500+-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Incidents_Resolved-60+-red?style=for-the-badge&logo=fortinet&logoColor=white)
-![](https://img.shields.io/badge/Threats_Hunted-15-orange?style=for-the-badge&logo=crowdstrike&logoColor=white)
----
-
 ## 🧰 Featured Projects
 
 <p align="left">
