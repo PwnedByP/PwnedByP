@@ -22,4 +22,5 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update SOC Metrics"
+          # This [skip ci] is the "Safety Lock" that prevents the infinite loop
+          commit_message: "Update SOC Metrics [skip ci]"
