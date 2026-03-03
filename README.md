@@ -31,7 +31,10 @@
 
 ---
 
-## 🧰 Featured Projects
+## 📖 My Learning Journey
+
+- 🔐 **Mini-SIEM Project**: Simulates a small enterprise environment with alerts, dashboards, and attack detection.
+- 🧩 **Python Exercises**: Regular challenges and scripts to improve code fluency.
 
 <p align="left">
   <a href="https://github.com/PwnedByP/Mini-SIEM">
@@ -41,13 +44,6 @@
     <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PwnedByP&repo=Python&theme=radical" />
   </a>
 </p>
-
----
-
-## 📖 My Learning Journey
-
-- 🔐 **Mini-SIEM Project**: Simulates a small enterprise environment with alerts, dashboards, and attack detection.
-- 🧩 **Python Exercises**: Regular challenges and scripts to improve code fluency.
 
 ---
 
