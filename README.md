@@ -5,6 +5,9 @@
   💻 Cybersecurity enthusiast | 🐍 Python developer | 🔐 SOC Analyst<br>
   🥊 Muay Thai fighter | Studying IT & breaking stuff in labs
 </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,py,bash,gcp,docker,kali,vscode,mysql" />
+</p>
 
 ---
 
@@ -18,11 +21,6 @@
 - 🌱 Learning: Python, Linux scripting, regex, and offensive/defensive tools
 - ⚙️ Tools I use: Google SecOps, SentinelOne, Kali Linux, Docker, Wireshark, Bash, Python
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,py,bash,gcp,docker,kali,vscode,mysql" />
-</p>
-
-
 ---
 
 ## 📖 My Learning Journey
@@ -30,7 +28,7 @@
 - 🔐 **Mini-SIEM Project**: Simulates a small enterprise environment with alerts, dashboards, and attack detection.
 - 🧩 **Python Exercises**: Regular challenges and scripts to improve code fluency.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/PwnedByP/Mini-SIEM">
     <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=PwnedByP&repo=Mini-SIEM&theme=radical" />
   </a>
