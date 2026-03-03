@@ -2,12 +2,14 @@ name: Generate Readme Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This allows the action to save the image to your repo
     steps:
       - uses: actions/checkout@v3
       - name: Generate Stats Images
@@ -18,6 +20,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-          # This specifically mimics the "Pinned Projects" look you like
-          plugin_projects: yes
-          plugin_projects_limit: 2
+          filename: github-metrics.svg
